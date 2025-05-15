@@ -6,9 +6,13 @@ This project is a simple image gallery built using HTML, CSS, and JavaScript. It
 
 Features
 Image Preview: Displays a larger version of the selected image.
+
 Thumbnail Navigation: Users can click on thumbnails to view the corresponding image.
+
 Previous/Next Buttons: Navigate through images using "Prev" and "Next" buttons.
+
 Keyboard Navigation: Use left and right arrow keys to navigate through images.
+
 Responsive Design: The gallery is designed to be user-friendly on various screen sizes.
 
 
