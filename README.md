@@ -20,18 +20,7 @@ Technologies Used
 HTML: Structure of the web page.
 CSS: Styling for the gallery layout and design.
 JavaScript: Functionality for image navigation and interaction.
-Installation
-Clone the repository:
-bash
-Run
-Copy code
-git clone https://github.com/yourusername/simple-image-gallery.git
-Navigate to the project directory:
-bash
-Run
-Copy code
-cd simple-image-gallery
-Open index.html in your web browser to view the gallery.
+
 
 
 Usage
